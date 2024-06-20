@@ -10,6 +10,6 @@ Created a simple webpage using HTML
 and CSS to style elements
 such as text, colors,display and layout.
 
-.
+
 
  
